@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working on **URGmetEO**
+- 🔭 I’m currently working on **URGmetEO** Mobile app
 
 - 💬 Ask me about **Android/Ios, Web development**
 
