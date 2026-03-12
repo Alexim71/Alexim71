@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **URGmetEO**
 
-- 💬 Ask me about **Android**
+- 💬 Ask me about **Android/Ios, Web development**
 
-- 📫 How to reach me **sanloveedena@gmail.com**
+- 📫 How to reach me **sanloveedena@gmail.com/aleximaeden@mail.ru**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
